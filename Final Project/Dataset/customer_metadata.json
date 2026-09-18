@@ -1,0 +1,14 @@
+[
+  {
+    "customer_id": "CUST00001",
+    "marital_status": "Married",
+    "dependents": 2,
+    "owns_house": "Yes"
+  },
+  {
+    "customer_id": "CUST00002",
+    "marital_status": "Single",
+    "dependents": 0,
+    "owns_house": "No"
+  }
+]
